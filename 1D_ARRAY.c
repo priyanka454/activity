@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main() {
-  int maxlen=10;                 //#defin MAX_SIZE 10
+  int maxlen;                 //#defin MAX_SIZE 10
   int arr[10];               //int arr[MAX_SIZE]
 
   srand(time(NULL));
